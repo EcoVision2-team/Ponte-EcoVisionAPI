@@ -80,7 +80,7 @@ Este repositório tem como objetivo documentar todas as etapas do projeto, desde
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 04/09/2026 | finalizado | [MVP](MVP.sp1)
+| 01                | 04/09/2026 | finalizado | [MVP](MVP1.md)
 | 02                | ? | a fazer | [MVP](MVP/sp2.md)  |
 | 03                | ? | a fazer | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | ? | a fazer  | [MVP](#)  |
