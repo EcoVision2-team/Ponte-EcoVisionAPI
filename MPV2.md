@@ -77,6 +77,24 @@ Montagem e colagem da estrutura;
 Realização do teste de carga;
 Comparação entre os resultados teóricos e experimentais.
 
+# Anexos / Evidências
+Os documentos e informações utilizados para comprovar as análises
+
+📎 **Anexo A — Análise dos Materiais**
+
+
+📎 **Anexo B — Cálculos Preliminares**
+
+
+📎 **Anexo C — Croqui da Ponte**
+
+
+📎 **Anexo D — Colagem**
+
+
+📎 **Anexo E — Custo e eficiência**
+
+
 
 # 🌉 PROJETO, CONSTRUÇÃO E TESTES DE PONTES
 
