@@ -1,4 +1,4 @@
-# 📌 MVP — Projeto, Construção e Testes de Ponte
+# 🌉 MVP — Projeto, Construção e Testes de Ponte
 
 # 🎯 Objetivo do MVP — Sprint 02
 
@@ -12,46 +12,44 @@
 - Avaliar resistência, estabilidade, custo e eficiência.
   
 
-📝 Descrição da Solução
+# 📝 Descrição da Solução
+
 A Sprint 02 consistiu no desenvolvimento de análises preliminares para a construção de uma ponte treliçada capaz de vencer o vão estabelecido no projeto.
-
-Durante a sprint foram avaliadas características dos materiais disponíveis, buscando identificar aqueles mais adequados às solicitações previstas. Também foram realizados cálculos preliminares para estimar o comportamento estrutural da solução.
-
-Foi desenvolvido um croqui da ponte, permitindo visualizar sua configuração, geometria e principais elementos estruturais. Além disso, foi analisado o sistema de colagem utilizado nas ligações entre os componentes.
-
+Durante a sprint foram avaliadas características dos materiais disponíveis, buscando identificar aqueles mais adequados às solicitações previstas. 
+Também foram realizados cálculos preliminares para estimar o comportamento estrutural da solução.
+Foi desenvolvido um croqui da ponte, permitindo visualizar sua configuração, geometria e principais elementos estruturais. 
+Além disso, foi analisado o sistema de colagem utilizado nas ligações entre os componentes.
 A equipe também realizou uma avaliação preliminar do custo da solução e da sua eficiência, considerando a relação entre desempenho estrutural e massa da ponte.
 
-Entregas principais da Sprint 02
+# Entregas principais da Sprint 02:
+
 Análise e seleção preliminar dos materiais;
-
 Testes e análises preliminares dos materiais;
-
 Cálculos estruturais preliminares;
-
 Desenvolvimento do croqui da ponte;
-
 Análise e definição preliminar do sistema de colagem;
-
 Análise de custo;
-
 Avaliação da eficiência da solução.
 
 # Limitações
+
 Os cálculos realizados são preliminares;
 A geometria apresentada no croqui poderá sofrer ajustes;
 Os resultados dos materiais e das ligações representam análises preliminares;
 A eficiência definitiva somente poderá ser determinada após a construção e teste do protótipo;
 Os valores de custo podem sofrer alterações durante a fabricação.
 
-👥 Personas / Usuários-Alvo
+# 👥 Personas / Usuários-Alvo
 
-Persona 1 — Parker São José dos Campos
+**Persona 1 — Parker São José dos Campos**
+
 Representa o contexto organizacional relacionado ao desenvolvimento e aplicação de soluções de engenharia.
 Necessidade: obter uma solução estrutural que apresente características adequadas de resistência, estabilidade, eficiência e viabilidade de fabricação.
 Dor: necessidade de avaliar diferentes alternativas antes da construção do protótipo, reduzindo riscos relacionados à escolha dos materiais e da configuração estrutural.
 Expectativa: obter uma solução preliminar tecnicamente fundamentada para orientar as próximas etapas do projeto.
 
-Persona 2 — Roque Antônio de Moura — Cliente / Tomador de Decisão
+**Persona 2 — Roque Antônio de Moura — Cliente / Tomador de Decisão**
+
 Representa o cliente responsável pelo acompanhamento e avaliação do desenvolvimento da solução.
 Necessidade: acompanhar as decisões técnicas e verificar a viabilidade da solução proposta.
 Dor: necessidade de possuir informações consolidadas sobre materiais, estrutura, custos e desempenho antes da construção da ponte.
@@ -67,12 +65,6 @@ Expectativa: receber uma análise preliminar que permita avaliar a solução e a
 | US9 | Quero elaborar croquis das soluções para visualizar a geometria, os apoios, o gancho e os elementos estruturais. | Média | 3 |
 | US10 | Quero realizar cálculos preliminares para estimar reações, esforços e deslocamentos antes da fabricação. | Alta | 5 |
 | US11 | Quero prever o comportamento estrutural da solução para identificar regiões críticas e possíveis modos de falha. | Alta | 5 |
-
-
-Resultado da Sprint
-Ao final da Sprint 02, foi desenvolvida uma análise preliminar da solução estrutural da ponte, contemplando os materiais selecionados, cálculos iniciais, croqui da estrutura, sistema de colagem, custo e eficiência.
-Esses resultados forneceram uma base para avaliar a viabilidade da solução e orientar a continuidade do desenvolvimento do protótipo.
-
 
 # 🚀 Próximos Passos
 A partir dos resultados obtidos na Sprint 02, as próximas etapas do projeto serão:
