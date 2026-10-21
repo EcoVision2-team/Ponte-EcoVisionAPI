@@ -82,29 +82,29 @@ Os documentos e informações utilizados para comprovar as análises
 
 
 
-📎 **Anexo A — Análise dos Materiais** <Amauri Santos> 
+📎 **Anexo A — Análise dos Materiais** Amauri Santos
 
 [materiais para ponte.pdf.pdf](https://github.com/user-attachments/files/33768256/materiais.para.ponte.pdf.pdf)
 
-📎 **Anexo B — Cálculos Preliminares** <Guilherme Donato>
+📎 **Anexo B — Cálculos Preliminares** Guilherme Donato
 
 [Calculos.docx](https://github.com/user-attachments/files/33768264/Calculos.docx)
 
 
-📎 **Anexo C — Croqui da Ponte** <João Buaski>
+📎 **Anexo C — Croqui da Ponte** João Buaski
 
 [Modelo e Desenho.docx](https://github.com/user-attachments/files/33768324/Modelo.e.Desenho.docx)
 
 
-📎 **Anexo D — Colagem** <Nicolas Mota>
+📎 **Anexo D — Colagem** Nicolas Mota
 
 [Cola e comportamento estrutural.docx](https://github.com/user-attachments/files/33768833/Cola.e.comportamento.estrutural.docx)
 
-📎 **Anexo E — Custo e eficiência** <Felipe Villela>
+📎 **Anexo E — Custo e eficiência** Felipe Villela
 
 [Estudo financeiro.docx](https://github.com/user-attachments/files/33769007/Estudo.financeiro.docx)
 
-📎 **Anexo F — Análise Estrutural** <Iran Bragion>
+📎 **Anexo F — Análise Estrutural** Iran Bragion
 
 [Analise_Estrutural_Ponte_EcoVisionAPI.docx](https://github.com/user-attachments/files/33768643/Analise_Estrutural_Ponte_EcoVisionAPI.docx)
 
