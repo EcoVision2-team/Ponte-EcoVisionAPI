@@ -93,7 +93,8 @@ Os documentos e informações utilizados para comprovar as análises
 
 📎 **Anexo C — Croqui da Ponte** João Buaski
 
-Croqui <img width="1692" height="930" alt="Desenho técnico de treliça com cotas" src="https://github.com/user-attachments/assets/4e77d58d-374a-4afb-80d6-2b6189562e39" />
+Croqui <img width="1536" height="1024" alt="Desenho Técnico de Treliça com Palitos de Sorvete" src="https://github.com/user-attachments/assets/cbdc1f58-721b-4a30-801b-9a40f307a011" />
+
 
 
 📎 **Anexo D — Colagem** Nicolas Mota
