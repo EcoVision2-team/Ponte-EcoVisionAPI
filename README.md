@@ -82,6 +82,6 @@ Este repositório tem como objetivo documentar todas as etapas do projeto, desde
 |-------------------|------------|----------|-----------|
 | 01                | 04/09/2026 | Finalizado | [MVP](MVP1.md)
 | 02                | 25/09/2026 | Finalizado | [MVP](MPV2.md)  |
-| 03                | ? | Em desenvolvimento | [MVP](MVP3.md)  |
-| Feira de Soluções | ? | a fazer  | [MVP](#)  |
+| 03                | 30/10/2026 | Finalizado | [MVP](MVP3.md)  |
+| Feira de Soluções | 03/12/20206 | a fazer  | [MVP](#)  |
 
