@@ -100,8 +100,6 @@ A partir dos resultados obtidos na Sprint 03, as próximas etapas do projeto ser
 
 # Anexos / Evidências
 
-**Fotos da construção da ponte**
+**Relatório sprint3**
 
-
-
-
+[Sprint 3 (1).docx](https://github.com/user-attachments/files/35175656/Sprint.3.1.docx)
